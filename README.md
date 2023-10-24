@@ -1,2 +1,2 @@
 # demo-repo
-you are welcome
+you are welcome to this sample demo
