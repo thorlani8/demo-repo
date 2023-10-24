@@ -1,0 +1,34 @@
+---
+# this is my first yaml assignment
+
+# this is an object
+microservice: 
+
+  app: user authentication
+  port: 2305
+  version: 2.0
+
+  # this is for lists
+  
+services:
+
+  - networking
+  - data quality service
+  - access and profiling
+  - admin desk
+  - maintenance
+
+# this is is for boolean expressions
+
+deployed: true or false
+
+# this is for multiline strings
+
+concrete: |
+well this is just an example for using yaml for the very first time in history. 
+welcome to the club of yaml family. so please to meet with you.
+loooooooooooooooool.........
+
+
+
+
