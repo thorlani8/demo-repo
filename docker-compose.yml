@@ -1,4 +1,5 @@
-# this is my first docker compose file
+# docker compose file to deploy nginx webserver
+# ports can be changed as you wish 
 
 version: '3'
 services:
